@@ -1,2 +1,3 @@
-# qotd-ratings-service
+# QotD Ratings Service
+
 Rate the quote
